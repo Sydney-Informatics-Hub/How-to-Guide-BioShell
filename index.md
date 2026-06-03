@@ -1,19 +1,21 @@
 ---
-title: How-to Guide landing page template
-type: template
-contributors: 
-description: Add a plain text description here.
-affiliations: 
+title: BioShell
+contributors:
+description: BioShell is a bioinformatics shell environment providing access to software, data, and compute resources for life sciences research.
+affiliations:
 sidebar: false
 ---
 
+## Welcome to BioShell
 
-**Replace the text below with your guide content!**
+> Add a short welcome paragraph describing what BioShell is and who it is for.
 
-Example templates that you could use for different guides are available in this repository:
+## Quick links
 
-- [Standard page that can be used as a starting point for any type of guide.](example_page)
-- [Suggested structure for a guide describing how to use a bioinformatics workflow](example_bioinformatics_workflow_page)
-- [Suggested structure for documentation describing a workflow: based on Australian BioCommons documentation guidelines](example_workflow_documentation_page)
+> Add navigation tiles or links to the most commonly visited sections.
 
-Use cases for different guides are described in the [How-to Guide for using this template](https://australianbiocommons.github.io/how-to-guide-template/how_to_guide_types).
+## Acknowledgements
+
+This guide makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
+
+{% include image.html file="elixir-toolkit-theme_logo.svg" alt="Elixir Toolkit Theme logo" max-width="15em" %}

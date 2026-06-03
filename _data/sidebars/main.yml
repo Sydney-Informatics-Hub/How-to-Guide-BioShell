@@ -1,14 +1,47 @@
-#subitems:
-#  - title: About
-#    url: /index
-#  - title: Standard example page
-#    url: /example_page
-#  - title: Workflow How-to Guide example pages
-#    subitems:
-#      - title: Example workflow guide page
-#        url: /example_bioinformatics_workflow_page
-#      - title: Example workflow documentation page
-#        url: /example_workflow_documentation_page
-#  - title: Contributors
-#    url: /contributors
-  
+subitems:
+  - title: Home
+    url: /index
+  - title: Events & news
+    url: /events
+  - title: Getting started
+    subitems:
+      - title: Eligibility
+        url: /eligibility
+      - title: Requesting access
+        url: /requesting-access
+      - title: Projects
+        url: /projects
+      - title: Resources & training
+        url: /resources-training
+  - title: Using BioShell
+    subitems:
+      - title: CVMFS
+        url: /cvmfs
+      - title: SHPC
+        url: /shpc
+      - title: Bio-Shelley
+        url: /bio-shelley
+      - title: Available software & data
+        url: /available-software
+      - title: Interactive interfaces
+        url: /interfaces
+  - title: Sharing project outputs
+    url: /sharing-outputs
+  - title: BioShell participants
+    url: /participants
+  - title: Acknowledging BioShell
+    url: /acknowledging
+  - title: Help & contact / FAQ
+    url: /help
+  - title: For developers
+    subitems:
+      - title: Technical overview
+        url: /technical-overview
+      - title: Training setup
+        url: /training-setup
+      - title: VM management
+        url: /vm-management
+      - title: Contributing
+        url: /contributing
+      - title: Testing & deployment
+        url: /testing-deployment
