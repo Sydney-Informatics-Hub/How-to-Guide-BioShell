@@ -1,5 +1,6 @@
 ---
 title: Technical overview
+type: For developers
 contributors:
 description: Technical architecture and infrastructure overview of BioShell.
 affiliations:

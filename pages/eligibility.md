@@ -1,5 +1,6 @@
 ---
 title: Eligibility
+type: Getting started
 contributors:
 description: Who is eligible to use BioShell and what the requirements are.
 affiliations:

@@ -1,5 +1,6 @@
 ---
 title: VM management
+type: For developers
 contributors:
 description: Managing virtual machines on BioShell across Nectar and NCI/Nirin infrastructure.
 affiliations:

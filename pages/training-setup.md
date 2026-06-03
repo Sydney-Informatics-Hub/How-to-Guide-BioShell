@@ -1,5 +1,6 @@
 ---
 title: Training setup
+type: For developers
 contributors:
 description: Instructions for setting up BioShell training environments, including VM provisioning and trainer checklists.
 affiliations:

@@ -1,5 +1,6 @@
 ---
 title: Testing & deployment
+type: For developers
 contributors:
 description: How to test and deploy BioShell documentation and infrastructure changes.
 affiliations:

@@ -1,5 +1,6 @@
 ---
 title: Requesting access
+type: Getting started
 contributors:
 description: How to request access to BioShell.
 affiliations:

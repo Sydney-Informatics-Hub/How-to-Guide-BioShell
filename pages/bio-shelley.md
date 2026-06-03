@@ -1,5 +1,6 @@
 ---
 title: Bio-Shelley
+type: Using BioShell
 contributors:
 description: Using Bio-Shelley, the BioShell AI assistant.
 affiliations:

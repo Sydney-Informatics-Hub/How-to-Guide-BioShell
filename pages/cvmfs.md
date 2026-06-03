@@ -1,5 +1,6 @@
 ---
 title: CVMFS
+type: Using BioShell
 contributors:
 description: Using the CernVM File System (CVMFS) on BioShell to access software and data.
 affiliations:

@@ -1,5 +1,6 @@
 ---
 title: Resources & training
+type: Getting started
 contributors:
 description: Learning resources, documentation links, and training materials for BioShell users.
 affiliations:

@@ -1,5 +1,6 @@
 ---
 title: Interactive interfaces
+type: Using BioShell
 contributors:
 description: Accessing BioShell through interactive interfaces including Jupyter, RStudio, and SSH.
 affiliations:

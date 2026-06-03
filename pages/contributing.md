@@ -1,5 +1,6 @@
 ---
 title: Contributing
+type: For developers
 contributors:
 description: How to contribute to BioShell documentation and development.
 affiliations:

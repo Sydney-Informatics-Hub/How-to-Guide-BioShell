@@ -1,5 +1,6 @@
 ---
 title: Available software & data
+type: Using BioShell
 contributors:
 description: Overview of software and datasets available on BioShell.
 affiliations:

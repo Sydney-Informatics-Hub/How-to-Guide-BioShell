@@ -1,5 +1,6 @@
 ---
 title: Projects
+type: Getting started
 contributors:
 description: Information about projects on BioShell, including how to create and manage them.
 affiliations:

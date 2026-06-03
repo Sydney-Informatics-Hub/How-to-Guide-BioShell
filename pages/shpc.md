@@ -1,5 +1,6 @@
 ---
 title: SHPC
+type: Using BioShell
 contributors:
 description: Using Singularity HPC (SHPC) on BioShell to manage containerised software.
 affiliations:
